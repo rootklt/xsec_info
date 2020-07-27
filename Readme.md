@@ -15,7 +15,7 @@
 ### 例子
 
 ```bash
-python3 0sec_info.py
+python3 xsec_info.py
 ```
 
 ![运行图片](https://github.com/rootklt/xsec_info/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
