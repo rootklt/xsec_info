@@ -112,7 +112,6 @@ def makeTemplate(url):
     return summary
 
 def main():
-    #main_url = 'http://www.0-sec.org/'
     main_url = 'https://edu.csdn.net/notebook/python/'
     book_summary = makeTemplate(main_url)
     count = 1
