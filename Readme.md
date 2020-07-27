@@ -1,4 +1,4 @@
-## 零组安全资料库爬虫
+## X组安全资料库爬虫
 
 ---
 
@@ -18,11 +18,11 @@
 python3 0sec_info.py
 ```
 
-![运行图片](https://github.com/rootklt/0sec_info/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
+![运行图片](https://github.com/rootklt/xsec_info/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 + 页面效果
 
-![页面效果](https://github.com/rootklt/0sec_info/blob/master/页面截图.png)
+![页面效果](https://github.com/rootklt/xsec_info/blob/master/页面截图.png)
 
 ### TODO
 
